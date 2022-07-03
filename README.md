@@ -1,0 +1,2 @@
+# MyVim
+My '.vim' directory
